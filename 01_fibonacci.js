@@ -18,4 +18,6 @@ function fibonacci(i){
     }
 }
 
-console.log(fibonacci(8));
+let position = 4;
+
+console.log("fibonacci("+position+") = "+fibonacci(position));

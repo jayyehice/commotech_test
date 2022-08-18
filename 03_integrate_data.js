@@ -1,4 +1,5 @@
 "use strict"
+console.log('');
 console.log('第三題結果');
 
 
